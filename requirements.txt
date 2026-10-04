@@ -5,6 +5,12 @@ tavily
 pyautogui
 sounddevice
 numpy
-openWakeWord
+openwakeword
 pyttsx3
-
+openwakeword.model
+time
+subprocess
+json
+os
+requests
+pywhispercpp
